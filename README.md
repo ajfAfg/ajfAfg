@@ -49,7 +49,7 @@
 
 - Programming languages
 - Automation
-- joke 🌝
+- Joke 🌝
 - etc...
 
 ## Stats
