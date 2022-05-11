@@ -1,10 +1,58 @@
-### Hello, World 👋
+# ajfAfg
 
-<p align="center">
-💪 I'm always looking for the BEST programming language 💪
-</p>
+<h3 align="center">ajfAfg</h3>
 
-I ❤️ [Erlang](https://www.erlang.org/) and [Elixir](https://elixir-lang.org/) now!
+<div align="center">
+  <img src="https://avatars.githubusercontent.com/u/56056962?v=4" alt="icon" width="15%" />
+</div>
 
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ajfAfg&hide=html)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ajfAfg&show_icons=true&count_private=true&line_height=40)
+<table align="center">
+<tbody>
+	<tr>
+		<td>Paradigm</td>
+    <td>Health Oriented</td>
+	</tr>
+	<tr>
+		<td>First appeared</td>
+		<td>August 11, 1999</td>
+	</tr>
+	<tr>
+		<td>Typing discipline</td>
+		<td>Inferred, static, strong<br>Dynamic, strong</td>
+	</tr>
+	<tr>
+		<td>Implementation language</td>
+		<td>Japanese</td>
+	</tr>
+	<tr>
+		<td>Platform</td>
+		<td>🌏</td>
+	</tr>
+	<tr>
+		<td>OS</td>
+		<td>macOS</td>
+	</tr>
+</tbody>
+</table>
+
+<h3 align="center">Influenced by</h3>
+
+<p align="center">Erlang, Elixir, Rust, OCaml, TypeScript</p>
+
+<h3 align="center">Influenced</h3>
+
+<p align="center">you</p>
+
+[@ajfAfg](https://github.com/ajfAfg) is a Health Oriented Programmer who is always looking for the BEST programming languages. He loves [Erlang](https://www.erlang.org/) and [Elixir](https://elixir-lang.org/) now!
+
+## Favorites
+
+- Programming languages
+- Automation
+- joke 🌝
+- etc...
+
+## Stats
+
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ajfAfg&theme=nord)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ajfAfg&show_icons=true&count_private=true&line_height=40&theme=nord)
