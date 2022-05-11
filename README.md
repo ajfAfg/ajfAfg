@@ -10,7 +10,7 @@
 <tbody>
 	<tr>
 		<td>Paradigm</td>
-    <td>Health Oriented</td>
+    <td>Health-oriented</td>
 	</tr>
 	<tr>
 		<td>First appeared</td>
@@ -43,7 +43,7 @@
 
 <p align="center">you</p>
 
-[@ajfAfg](https://github.com/ajfAfg) is a Health Oriented Programmer who is always looking for the BEST programming languages. He loves [Erlang](https://www.erlang.org/) and [Elixir](https://elixir-lang.org/) now!
+[@ajfAfg](https://github.com/ajfAfg) is a health-oriented programmer who is always looking for the BEST programming languages. He loves [Erlang](https://www.erlang.org/) and [Elixir](https://elixir-lang.org/) now!
 
 ## Favorites
 
