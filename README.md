@@ -1,5 +1,3 @@
-# ajfAfg
-
 <h3 align="center">ajfAfg</h3>
 
 <div align="center">
@@ -37,7 +35,7 @@
 
 <h3 align="center">Influenced by</h3>
 
-<p align="center">Erlang, Elixir, Rust, OCaml, TypeScript</p>
+<p align="center">Erlang, Elixir, Rust, OCaml, TypeScript, Shell script</p>
 
 <h3 align="center">Influenced</h3>
 
