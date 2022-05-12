@@ -41,7 +41,7 @@
 
 <p align="center">you</p>
 
-[@ajfAfg](https://github.com/ajfAfg) is a health-oriented programmer who is always looking for the BEST programming languages. He loves [Erlang](https://www.erlang.org/) and [Elixir](https://elixir-lang.org/) now!
+[@ajfAfg](https://github.com/ajfAfg) is a health-oriented programmer who is always looking for BEST programming languages. He loves [Erlang](https://www.erlang.org/) and [Elixir](https://elixir-lang.org/) now!
 
 ## Favorites
 
