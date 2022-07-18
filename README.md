@@ -30,6 +30,10 @@
 		<td>OS</td>
 		<td>macOS</td>
 	</tr>
+	<tr>
+		<td>Website</td>
+		<td>https://ajfafg.github.io</td>
+	</tr>
 </tbody>
 </table>
 
