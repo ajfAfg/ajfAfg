@@ -16,7 +16,7 @@
 	</tr>
 	<tr>
 		<td>Typing discipline</td>
-		<td>Inferred, static, strong<br>Dynamic, strong</td>
+		<td>Inferred, static, strong</td>
 	</tr>
 	<tr>
 		<td>Implementation language</td>
@@ -39,18 +39,18 @@
 
 <h3 align="center">Influenced by</h3>
 
-<p align="center">Erlang, Elixir, Rust, OCaml, TypeScript, Shell script</p>
+<p align="center">OCaml, TypeScript, Erlang, Elixir, Haskell, Rust, Shell script</p>
 
 <h3 align="center">Influenced</h3>
 
 <p align="center">you</p>
 
-[@ajfAfg](https://github.com/ajfAfg) is a health-oriented programmer who is always looking for BEST programming languages. He loves [Erlang](https://www.erlang.org/) and [Elixir](https://elixir-lang.org/) now!
+[@ajfAfg](https://github.com/ajfAfg) is a health-oriented programmer who is always looking for BEST programming languages. He loves [OCaml](https://ocaml.org/) now!
 
-## Favorites
+## Interests
 
-- Programming languages
-- Automation
+- Programming language implementation (Especially front-end)
+- Engineering productivity
 - Joke 🌝
 - etc...
 
